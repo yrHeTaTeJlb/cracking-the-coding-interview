@@ -17,3 +17,4 @@ FetchContent_Declare(
 FetchContent_MakeAvailable(googletest)
 
 add_subdirectory("1")
+add_subdirectory("2")
